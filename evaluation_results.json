@@ -1,0 +1,12 @@
+{
+    "distilbert": {
+        "accuracy": 1.0,
+        "f1_macro": 1.0,
+        "loss": 0.321582555770874
+    },
+    "zero_shot_baseline": {
+        "model": "meta-llama/llama-prompt-guard-2-86m",
+        "f1_macro": 0.16666666666666666,
+        "accuracy": 0.9523809523809523
+    }
+}
